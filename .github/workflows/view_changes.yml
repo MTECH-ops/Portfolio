@@ -1,0 +1,23 @@
+name: Show Changed Files on Windows
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  show-changes:
+    runs-on: windows-latest
+    steps:
+      # Checkout do código do repositório
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Exibir arquivos alterados
+      - name: Show modified files
+        run: |
+          echo "Arquivos alterados (não commitados):"
+          git status
+          echo "Resumo das mudanças:"
+          git diff --stat
