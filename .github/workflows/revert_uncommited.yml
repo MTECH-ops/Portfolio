@@ -8,7 +8,7 @@ on:
 
 jobs:
   revert-changes:
-    runs-on: ubuntu-latest # Define o ambiente
+    runs-on: windows-latest # Define o ambiente
 
     steps:
       # Fazer checkout do código
