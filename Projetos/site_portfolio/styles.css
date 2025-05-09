@@ -1,0 +1,14 @@
+/* Fundo simples */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #87CEEB; /* Fundo azul claro */
+}
+
+/* Canvas do jogo */
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #FFFFFF; /* Fundo do jogo */
+    border: 2px solid #333; /* Borda do canvas */
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "three": "^0.175.0",
+    "three-stdlib": "^2.35.15"
+  },
+  "name": "site---portifolio",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
