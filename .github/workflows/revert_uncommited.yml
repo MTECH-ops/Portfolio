@@ -1,17 +1,17 @@
 name: Revert Uncommitted Changes
 
 on:
-  workflow_dispatch: # Permite executar manualmente
+  workflow_dispatch: # Permite execução manual no GitHub Actions
 
 jobs:
   revert-changes:
-    runs-on: windows-latest # Ambiente Windows
+    runs-on: windows-latest # Define o ambiente como Windows
     steps:
-      # Fazer checkout do código
+      # Fazer checkout do repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Mostrar status atual dos arquivos
+      # Mostrar as mudanças atuais
       - name: Show current changes
         run: |
           echo "Arquivos modificados:"
@@ -19,7 +19,7 @@ jobs:
           echo "Detalhes das mudanças:"
           git diff
 
-      # Reverter todas as mudanças não commitadas
+      # Reverter todas as alterações não commitadas
       - name: Revert changes
         run: |
           echo "Revertendo todas as mudanças não commitadas..."
