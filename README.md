@@ -5,3 +5,34 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
 
 
 ### Link para a minha conta do Linkedin: https://www.linkedin.com/public-profile/settings
+
+<a href="(https://github.com/MTECHDevelopment/MTECHDevelopment.git)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MTECHDevelopment" />
+</a>
+<a href="https://github.com/MTECHDevelopment/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MTECHDevelopment&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="(https://github.com/MTECHDevelopment/MTECHDevelopment.git)">
+  <img align="center" src="[https://github-readme-stats.vercel.app](https://github.com/MTECHDevelopment/MTECHDevelopment.git)/api/pin/?username=MTECHDevelopment&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/MTECHDevelopment/convoychat">
+  <img align="center" src="[https://github-readme-stats.vercel.app](https://github.com/MTECHDevelopment/MTECHDevelopment.git)/api/pin/?username=MTECHDevelopment&repo=convoychat" />
+</a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="MTECH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MTECH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MTECH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MTECH-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MTECH-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+  ##
+
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mfalconpy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-lima-928301365" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/MTECHDevelopment/MTECHDevelopment.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
