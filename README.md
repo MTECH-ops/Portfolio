@@ -3,9 +3,6 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
 
 [![Show Changed Files on Windows](https://github.com/MTECHDevelopment/Portfolio/actions/workflows/view_changes.yml/badge.svg)](https://github.com/MTECHDevelopment/Portfolio/actions/workflows/view_changes.yml)
 
-
-### Link para a minha conta do Linkedin: https://www.linkedin.com/public-profile/settings
-
 <a href="(https://github.com/MTECHDevelopment/MTECHDevelopment.git)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MTECHDevelopment" />
 </a>
