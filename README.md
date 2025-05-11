@@ -10,11 +10,11 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MTECHDevelopment&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="(https://github.com/MTECHDevelopment/MTECHDevelopment.git)">
-  <img align="center" src="[https://github-readme-stats.vercel.app](https://github.com/MTECHDevelopment/MTECHDevelopment.git)/api/pin/?username=MTECHDevelopment&repo=github-readme-stats" />
+<a href="https://github.com/MTECHDevelopment/MTECHDevelopment.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTECHDevelopment&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/MTECHDevelopment/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app](https://github.com/MTECHDevelopment/MTECHDevelopment.git)/api/pin/?username=MTECHDevelopment&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTECHDevelopment&repo=convoychat" />
 </a>
 
 <div style="display: inline_block"><br>
