@@ -13,9 +13,6 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
 <a href="https://github.com/MTECHDevelopment/MTECHDevelopment.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTECHDevelopment&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/MTECHDevelopment/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTECHDevelopment&repo=convoychat" />
-</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MTECH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
