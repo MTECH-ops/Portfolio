@@ -3,6 +3,10 @@
 https://api.github.com/repos/CatPy123/Python/pulls
 
 ## Conquistas 🎉
+
+[![Pull Request](https://img.shields.io/badge/Pull%20Request-1-blue)](https://api.github.com/repos/CatPy123/Python/pulls)
+
+## Conquistas 🎉
 - ![First Pull Request](https://img.shields.io/badge/achievement-first--pull--request-brightgreen)
 
 ## Conquistas 🎉
