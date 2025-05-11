@@ -1,3 +1,23 @@
+const fetch = require("node-fetch");
+
+const repoOwner = "MTECHDevelopment";
+const repoName = "Portfolio";
+const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/pulls`;
+
+async function listPullRequests() {
+  try {
+    const response = await fetch(apiUrl);
+    const pullRequests = await response.json();
+    pullRequests.forEach(pr => {
+      console.log(`- [${pr.title}](${pr.html_url})`);
+    });
+  } catch (error) {
+    console.error("Erro ao buscar os Pull Requests:", error);
+  }
+}
+
+listPullRequests();
+
 ## Conquistas 🎉
 
 https://api.github.com/repos/CatPy123/Python/pulls
