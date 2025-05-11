@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<head><meta charset="UTF-8"><title>Explorador de Arquivos</title></head>
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,11 +8,47 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Meu Portfólio</title>
 </head>
-<body><h1>Arquivos</h1><ul>
-<li><a href="Documentos/">Documentos/</a></li>
-<li><a href="Projetos/">Projetos/</a></li>
-<li><a href="Pull_requests/">Pull_requests/</a></li>
-<li><a href="README.md">README.md</a></li>
-<li><a href="generate-index.sh">generate-index.sh</a></li>
-<li><a href="index.html">index.html</a></li>
-</ul></body></html>
+
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Portfólio</h1>
+        <p>Explore meus projetos e entre em contato!</p>
+    </header>
+
+    <section class="projetos">
+        <h2>Meus Projetos</h2>
+        <div class="button-container">
+            <a href="https://github.com/MTECHDevelopment/Portfolio" class="button-link">
+                <button class="styled-button">Ver Portfólio</button>
+            </a>
+        </div>
+        <div class="button-container">
+            <a href="https://github.com/MTECHDevelopment/relogiodigital" class="button-link">
+                <button class="styled-button">Relógio Digital</button>
+            </a>
+        </div>
+    </section>
+
+    <div id="loading" class="loading-indicator" style="display: none;">
+        Carregando...
+    </div>
+
+    <footer>
+        <p>&copy; 2025 MTECHDevelopment. Todos os direitos reservados.</p>
+    </footer>
+
+    <script>
+        // Exibe o indicador de carregamento ao clicar nos botões
+        function showLoading() {
+            document.getElementById('loading').style.display = 'block';
+        }
+
+        // Adiciona evento aos botões
+        const buttons = document.querySelectorAll('.styled-button');
+        buttons.forEach(button => {
+            button.addEventListener('click', showLoading);
+        });
+    </script>
+</body>
+
+</html>

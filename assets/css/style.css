@@ -27,44 +27,21 @@ header h1 {
     text-transform: uppercase;
 }
 
+header p {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
 /* Seção de Projetos */
-section {
+.projetos {
     margin: 20px 0;
 }
 
-.projeto {
-    margin: 20px;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.projeto:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
-}
-
-.projeto a {
-    text-decoration: none;
+.projetos h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
     color: #fff;
-}
-
-.projeto h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-}
-
-.projeto p {
-    font-size: 1rem;
-}
-
-/* Rodapé */
-footer {
-    margin-top: 30px;
-    font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Container dos botões */
@@ -101,4 +78,29 @@ footer {
     background: linear-gradient(45deg, #0056b3, #0096c7);
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Indicador de carregamento */
+.loading-indicator {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
+/* Rodapé */
+footer {
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
 }
