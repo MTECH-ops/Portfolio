@@ -10,10 +10,6 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MTECHDevelopment&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/MTECHDevelopment/MTECHDevelopment.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MTECHDevelopment&repo=github-readme-stats" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="MTECH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MTECH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
