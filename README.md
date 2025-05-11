@@ -3,7 +3,7 @@ Esse repositório serve para conglomerar todo o meu trabalho em um portfólio es
 
 [![Show Changed Files on Windows](https://github.com/MTECHDevelopment/Portfolio/actions/workflows/view_changes.yml/badge.svg)](https://github.com/MTECHDevelopment/Portfolio/actions/workflows/view_changes.yml)
 
-<a href="https://github.com/MTECHDevelopment.git">
+<a href="https://github.com/MTECHDevelopment/MTECHDevelopment.git">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MTECHDevelopment" />
 </a>
 <a href="https://github.com/MTECHDevelopment/convoychat">
