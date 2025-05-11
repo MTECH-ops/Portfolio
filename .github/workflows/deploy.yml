@@ -17,7 +17,7 @@ jobs:
       run: |
         mkdir site
         # Copiar todos os arquivos e pastas do repositório para a pasta 'site'
-        cp -r * site/
+        rsync -av --exclude='site' ./ site/
         # Gerar o index.html básico
         echo "<html><body><h1>Arquivos</h1><ul>" > site/index.html
         ls -p | grep -v / | awk '{print "<li><a href=\""$1"\">" $1 "</a></li>"}' >> site/index.html
